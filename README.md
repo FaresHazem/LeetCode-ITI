@@ -10,9 +10,8 @@ A collection of solved LeetCode problems for ITI coursework and practice.
   - (Optional) notes or explanation
 
 ## Status
-Solved problems: 5
 
-This repository currently contains 5 solved problems (see the `problems/` folder).
+This repository currently contains 5 solved problems.
 
 ## Purpose
 
