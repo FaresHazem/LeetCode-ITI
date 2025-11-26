@@ -4,14 +4,14 @@ A collection of solved LeetCode problems for ITI coursework and practice.
 
 ## Structure
 
-- `problems/` — contains problem folders named with an index and slug (e.g. `001-two-sum`).
+- `problems/` — contains problem folders named with an index and slug (e.g. `0001-two-sum`).
 - Each folder will contain:
   - The solution file
   - (Optional) notes or explanation
 
 ## Status
 
-This repository currently contains 5 solved problems.
+This repository currently contains 6 solved problems.
 
 ## Purpose
 
