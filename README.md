@@ -11,7 +11,7 @@ A collection of solved LeetCode problems for ITI coursework and practice.
 
 ## Status
 
-This repository currently contains 18 solved problems.
+This repository currently contains 22 solved problems.
 
 ## Purpose
 
