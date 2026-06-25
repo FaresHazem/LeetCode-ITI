@@ -11,9 +11,9 @@ A collection of solved LeetCode problems for ITI coursework and practice.
 
 ## Status
 
-This repository currently contains `100` easy and `19` medium problems.
+This repository currently contains `101` easy and `19` medium problems.
 
-**Total: `119` solved problems**
+**Total: `120` solved problems**
 
 ## Purpose
 
