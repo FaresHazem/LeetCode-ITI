@@ -7,13 +7,12 @@ A collection of solved LeetCode problems for ITI coursework and practice.
 - `problems/` — contains problem folders named with an index and slug (e.g. `0001-two-sum`).
 - Each folder will contain:
   - The solution file
-  - (Optional) notes or explanation
 
 ## Status
 
-This repository currently contains `118` easy and `20` medium problems.
+This repository currently contains `119` easy and `20` medium problems.
 
-**Total: `138` solved problems**
+**Total: `139` solved problems**
 
 ## Purpose
 
